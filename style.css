@@ -17,7 +17,7 @@ body{
     width: 100vh;
     height:80vh;
     background-color: red;
-    background-image: url(img/1.jpeg);
+    /* background-image: url(img/1.jpeg); */
     background-size: cover;
     background-repeat: no-repeat;
 }
