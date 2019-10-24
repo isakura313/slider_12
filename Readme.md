@@ -1,0 +1,1 @@
+**slider for Nordic it **
